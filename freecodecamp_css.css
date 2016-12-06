@@ -1,0 +1,223 @@
+/* цвет фона и рамки навигационного меню */
+.navbar-default {
+    background-color: #0B0B3B;
+    border-color: #0B0B3B;
+}
+/* цвет текста, содержащий название сайта или бренда */
+.navbar-default .navbar-brand {
+    color: #A9BCF5;
+}
+/* цвет текста (название сайта или бренда), при поднесении к нему курсора мышки или при его нахождении в фокусе */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #d1ffed;
+}
+/* Цвет пунктов навигационного меню */
+.navbar-default .navbar-nav > li > a {
+    color: #A9BCF5;
+}
+/* Цвет пункта меню, при поднесении к нему курсора мышки или при его нахождении в фокусе */
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #d1ffed;
+}
+/*!* Цвет и фон активного пункта меню, а также поднесении к нему курсора мышки или при его нахождении в фокусе *!*/
+/*.navbar-default .navbar-nav > .active > a,*/
+/*.navbar-default .navbar-nav > .active > a:hover,*/
+/*.navbar-default .navbar-nav > .active > a:focus {*/
+    /*color: #d1ffed;*/
+    /*background-color: #0B0B61;*/
+/*}*/
+.dropdown-menu{
+    background: rgba(0, 0, 128, 0.5)
+}
+.dropdown-menu > li > a, .dropdown-menu > li > a {
+    color: #A9BCF5;
+}
+.dropdown-menu > li > a:hover,.dropdown-menu > li > a:focus{
+    background-color: rgba(100, 149, 237, 0.5)  !important;
+    color: #d1ffed;
+}
+/* Цвет и фон открытого пункта меню, а также поднесении к нему курсора мышки или при его нахождении в фокусе */
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:hover,
+.navbar-default .navbar-nav > .open > a:focus {
+    color: #d1ffed;
+    background-color: #0B0B61;
+}
+
+/*Пішла правка для фонового малюнку*/
+/* Отступ сверху для содержимого body (высота navbar = 50px)*/
+a{
+    outline: none !important;
+}
+/* розмір діва Мого фото*/
+.myPhoto {
+    height: 200px;
+    width: 150px;
+    background-size: cover;
+    background-attachment: scroll;
+}
+/*розмір фотки на сторінці 2*/
+/*.styleMyPhoto {*/
+    /*height: 100%;*/
+    /*width: auto;*/
+
+/*}*/
+/*фон 3-ої сторінки*/
+.splash_1 {
+    height: 660px;
+    position: relative;
+    /* Картинка, которая используются для splash */
+    background-image: url(img/splash_1.jpg);
+    /* Масштабируем картинку с сохранением пропорций */
+    background-size: cover;
+    /* НЕ Запрещаем фоновому изображению прокручиваться, т.е. делаем его подвижным */
+    background-attachment: fixed;
+    /*background-attachment: scroll;*/
+}
+/*фон 2-ої сторінки*/
+.splash_2 {
+    height: 660px;
+    position: relative;
+    /* Картинка, которая используются для splash */
+    background-image: url(img/splash_2.jpg);
+    /* Масштабируем картинку с сохранением пропорций */
+    background-size: cover;
+    /* НЕ Запрещаем фоновому изображению прокручиваться, т.е. делаем его подвижным */
+    background-attachment: fixed;
+    /*background-attachment: scroll;*/
+    /* Цвет текста */
+    /*color: #fff;*/
+    /* Выравниваем текста внутри splash по центру */
+    /*text-align: center;*/
+}
+/*фон 3-ої сторінки*/
+.splash_3 {
+    height: 620px;
+    position: relative;
+    /* Картинка, которая используются для splash */
+    background-image: url(img/splash_3.jpg);
+    /* Масштабируем картинку с сохранением пропорций */
+    background-size: cover;
+    /* НЕ Запрещаем фоновому изображению прокручиваться, т.е. делаем его подвижным */
+    background-attachment: fixed;
+    /*background-attachment: scroll;*/
+    /* Цвет текста */
+    color: #fff;
+    /* Выравниваем текста внутри splash по центру */
+    text-align: center;
+}
+/*формат футеру(довго грався)*/
+.footer_div {
+    position: absolute;
+    bottom:0;
+    width: 100%;
+    background: rgba(33, 22, 13, 0.5);
+
+}
+/*відступ від верху екрану*/
+.first_text {
+    margin-top: 80px;
+    /* Цвет текста */
+    /*color: #0B0B61;*/
+    color: #fff;
+    /* Выравниваем текста внутри splash по центру */
+    text-align: center;
+}
+/*відступ від верху екрану*/
+.first_text_1_3 {
+    margin-top: 200px;
+    /* Цвет текста */
+    /*color: #0B0B61;*/
+    color: #fff;
+    /* Выравниваем текста внутри splash по центру */
+    text-align: center;
+}
+/*закрашує у футері текст в чорний колір*/
+.site_designer{
+    text-align: left;
+    color: black;
+}
+/*жирний шрифт на першій сторінці*/
+.fat_text {
+    /*font-family: "Century Schoolbook L";*/
+    font-weight: 600;
+}
+/*стиль тексту на сторінці*/
+.font_for_tips{
+    font-family: "Century Schoolbook L";
+}
+/*колір ссилок(кнопок)*/
+.button_designer{
+    width: 70px;
+    height: 40px;
+    background: rgba(230, 230, 255, 0.3);
+    border-color: rgba(33, 22, 13, 0.5);
+}
+/*колір ссилок(кнопок) при наведені мишки*/
+.button_designer:hover{
+    width: 70px;
+    height: 40px;
+    background: rgba(100, 149, 237, 0.3);
+    border-color: rgba(33, 22, 13, 0.5);
+}
+/*Білі ссилки у футері*/
+.footer_call{
+    color: whitesmoke;
+}
+/*КАРУСЕЛЬ*/
+
+.item{
+    text-align: center;
+    height: 200px !important;
+    width: 250px !important;
+    background-size: 20%;
+
+}
+/*задає висоту карусєлі і фотки*/
+.carousel img, .item {
+    height: 200px !important;
+}
+/*.table_text{*/
+    /*color: darkgrey;*/
+
+/*}*/
+/*hr {*/
+    /*border: none; !* Убираем границу для браузера Firefox *!*/
+    /*color: #0B0B61; !* Цвет линии для браузера Internet Explorer *!*/
+    /*background-color: #0B0B61; !* Цвет линии для браузера Firefox и Opera *!*/
+    /*height: 2px; !* Толщина линии *!*/
+/*}*/
+.text_size{/*розмір тексту не основного*/
+    font-size: 20px;
+}
+.carousel-indicators{/*точечки карусєльки опускаємо нище*/
+    /*bottom: 2px;*/
+    margin-bottom: -15px;
+}
+.carousel{ /* підганяєм карусєльку під розмір фотки*/
+    height: 200px;
+    width: 250px;
+    /*margin: 0 auto;*/
+}
+.for_text_splash_2{/*вирівняли текст на другій заставці в рівень з фоткою і щоб було читабельно*/
+    margin-top: -25px;
+    padding-bottom: 20px;
+}
+.link_for_tips{/*показує що на другій сторінці є ссилка на сторонній ресурс*/
+    color: #A9BCF5;
+}
+.textColorForCV{
+    color: #42A5F5;
+}
+.maskFon {
+    background-color:rgba(0,0,0,.3);
+
+}
+/*
+висота екрана браузера
+*/
+.hei {
+    height: 100vh; /* 100vh - 100% от высоты viewport(окна браузера) */
+}
