@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d007e2e7-37fe-45ec-aea7-c8e54da21584" name="Default" comment="d-md-none" />
+    <list default="true" id="d007e2e7-37fe-45ec-aea7-c8e54da21584" name="Default" comment="d-md-none">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603187055779</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="d-md-none">
+      <created>1603187117121</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603187117121</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -104,14 +114,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="d-md-none" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1100" y="-176" key="CommitChangelistDialog2" timestamp="1603187055334">
+    <state x="-1100" y="-176" key="CommitChangelistDialog2" timestamp="1603187116622">
       <screen x="-1440" y="-190" width="1440" height="860" />
     </state>
-    <state x="-1100" y="-176" key="CommitChangelistDialog2/0.0.1536.824/-1440.-190.1440.860@-1440.-190.1440.860" timestamp="1603187055334" />
-    <state x="-1128" y="-27" key="Vcs.Push.Dialog.v2" timestamp="1603187057620">
+    <state x="-1100" y="-176" key="CommitChangelistDialog2/0.0.1536.824/-1440.-190.1440.860@-1440.-190.1440.860" timestamp="1603187116622" />
+    <state x="-1128" y="-27" key="Vcs.Push.Dialog.v2" timestamp="1603187118857">
       <screen x="-1440" y="-190" width="1440" height="860" />
     </state>
-    <state x="-1128" y="-27" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1440.-190.1440.860@-1440.-190.1440.860" timestamp="1603187057620" />
+    <state x="-1128" y="-27" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1440.-190.1440.860@-1440.-190.1440.860" timestamp="1603187118857" />
+    <state x="-1348" y="-98" width="1256" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1603187144901">
+      <screen x="-1440" y="-190" width="1440" height="860" />
+    </state>
+    <state x="-1348" y="-98" width="1256" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/-1440.-190.1440.860@-1440.-190.1440.860" timestamp="1603187144901" />
     <state x="-1024" y="-27" width="738" height="602" key="find.popup" timestamp="1603187065495">
       <screen x="-1440" y="-190" width="1440" height="860" />
     </state>
