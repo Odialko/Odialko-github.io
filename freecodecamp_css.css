@@ -110,6 +110,7 @@ a{
 }
 /*формат футеру(довго грався)*/
 .footer_div {
+    padding-top: 30px
     position: absolute;
     bottom:0;
     width: 100%;
