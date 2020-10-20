@@ -74,12 +74,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
-  </component>
+  <component name="ProjectId" id="1j8W8kxgTumM5HalzjZ5E7BuZOX" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -114,8 +109,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -178,6 +174,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new information about me&#10;" />
     <option name="LAST_COMMIT_MESSAGE" value="add new information about me&#10;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1024" y="-27" width="608" height="534" key="find.popup" timestamp="1603186182967">
+      <screen x="-1440" y="-190" width="1440" height="860" />
+    </state>
+    <state x="-1024" y="-27" width="608" height="534" key="find.popup/0.0.1536.824/-1440.-190.1440.860@-1440.-190.1440.860" timestamp="1603186182967" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
